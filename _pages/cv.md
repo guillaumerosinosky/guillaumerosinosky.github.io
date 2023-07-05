@@ -11,30 +11,72 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Master (with high honors), Computer science, Modelling and Optimization,  CNAM Paris, 2012
+* Research Master (with honors), [Information processing and data exploitation](https://formation.cnam.fr/rechercher-par-discipline/master-sciences-technologies-sante-mention-informatique-parcours-traitement-de-l-information-et-exploitation-des-donnees-813201.kjsp), CNAM Paris, 2013
+* Ph.D elasticity of business processes execution, Université de Lorraine, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2023: Post-doc (2 years)
+  * Université Catholique de Louvain (Belgium)
+  * Subject: elastic and predictive management of containers for IA and data science
+* 2019-2021: Post-doc (2.5 years)
+  * Université Catholique de Louvain (Belgium)
+  * Subject: innovative middleware for high-assurance cloud applications in geographically distributed infrastructures
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2014-2019: PhD student (4 years)
+  * Université de Lorraine (France)
+  * Achievements
+    * Optimization models for BPM tools elasticity in the cloud : our heuristic goal is to optimize the cost of the infrastructure of multi tenant BPMS, considering BPM task throughput as a QoS metric for customers and resources, and live migrations quantity limitation.
+      * reactive bicriteria time slot heuristic approach [6];
+      * proactive multiple time slots heuristic and model [7];
+      * enhancement of previous algorithm using genetic algorithms and alternative model [4];
+    * Generic benchmarking approaches and frameworks, and metrics justification preparation and implementation of benchmarking approaches
+      * cloud resource capacity automated and reproductible framework based on Docker [5]
+      * live migrations effects benchmarking approach and framework [10]
+    * Security in BPM tools evaluation model [1]
+    * Collaboration with the Software Institute team of the University of Lugano on the subject of BPM engine benchmarking. One publication has been done during this collaboration [10], and more are currently under development.
+
+* 2011-2014: Lead developer (3 years)
+  * Company: Cintel (France)
+  * Architecture of the solution for telephonic operator Traceis, technical management of development team, technological monitoring, training, software development
+    * Migration of the solution from a 2-tier architecture (Delphi, JSP) to a 3-tier architecture based on Java EE 6 and a REST architecture (stack JPA 2, EJB 3.1, JSF2, Ext JS) on a Jboss 7 server: developers, technological choices, development
+    * Selection and development of an Android application focusing the technicians with the Xamarin tool (C#)
+    * Integration of a BPM tool (jBPM) in the Traceis solution
+    * Generalization of unit and integration testing (jUnit, Arquilian, Selenium) and continuous integration (Jenkins, Maven)
+    * Team management: planning, support, implementation of project tools (Redmine)
+  * Used tools: DBSchema, Visio, Project, Netbeans, Redmine, Mantis BT, Subersion, jUnit, Selenium, Xamarin
+
+* 2010-2011: Engineer intern (1 year)
+  * LOCEAN Laboratory (UPMC University)
+  * Development of new features in the variation assimilation software Yao
+    * Development of dual and quasi-static algorithms in the Yao softare
+    * Refactoring of the generator, optimisation of performance, parallelisation with OpenMP
+  * Used tools: gcc, db, Boost library, BouML, vi, Matlab, OpenMP
+* 2006-2010: Developer (4 years)
+  * Company: Cintel (France)
+  * Development of Amira module (management of work orders for telecommunications technicians) of the Traceis solution, technical support
+  * Development of internal modules for data import, database structure
+  * Used tools: Delphi 2006, Eclipse, BouML, Project, Subversion, Mantis BT, Java
+
+* 2005-2006: Developer (1 year)
+  * Company: ABL Infosoft (France)
+  * Development of interfaces between the Anabio software and medical analysis robots using serial ports (RS232),
+FTP
+  * Installation and deployment in medical laboratories, technical support
+  * Used tools: Delphi 3, 6 and 2006, Paradox 10, Async Pro 4 library, MSXML
+
+* 2001-2003: Developer (2 years)
+  * Company: ABL Infosoft (France)
+  * Development of new features on business applications for small companies, technical support
+  * Used tools: Abal, Screener, Twin Server
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software development
+* Devops
+* Optimization
+* Machine Learning
 
 Publications
 ======
@@ -42,12 +84,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -56,4 +93,23 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 12/2022 OPODIS 2022 Conference on Principles of Distributed Systems - Publication chair
+* 11/2022 23rd ACM/IFIP International Middleware Conference - Industry track PC member
+* 04/2022 Eurosys 2022 - Shadow PC member
+* 11/2021 The Seventh International Workshop on Container Technologies and Container Clouds - PC member
+* 05/2021 Transactions on Parallel and Distributed Systems - Reviewer
+* 12/2020 The Sixth International Workshop on Container Technologies and Container Clouds - PC Member
+* 03/2020 IEEE Transactions on Computers - Reviewer
+* 05/2019 International Journal of Computational Intelligence Systems - Reviewer
+
+Grants
+=====
+* 01/2022-12/2023 Funding: 560000 € (participation to preparation of the project) - Win2Wal - Subject: Elastic and predictive management of containers for IA and data science - *current funding*.
+* 11/2017-12/2018 Funding: 20000 $ - Microsoft Azure Sponsorship - Subject: elasticity of BPMaaS and SaaS, used for PhD work.
+* 10/2015-10/2017 Funding: 2000 $ - AWS in Education Research Grant - Subject: elasticity of BPMaaS, used for PhD work.
+
+Languages
+=====
+* Native in French
+* Operational in English
+* Beginner in 中文 (Mandarin Chinese, 2 years)

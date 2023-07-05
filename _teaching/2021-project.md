@@ -2,10 +2,10 @@
 title: "Project 1 in Computer Science: Applications and Introduction to loT"
 collection: teaching
 type: "Licence 1"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2021-project
+venue: "Université Catholique de Louvain"
+date: 2021-09-15
+location: "Louvain-la-Neuve, Belgium"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
