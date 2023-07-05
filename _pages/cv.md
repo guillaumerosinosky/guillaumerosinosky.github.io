@@ -28,14 +28,14 @@ Work experience
   * Université de Lorraine (France)
   * Achievements
     * Optimization models for BPM tools elasticity in the cloud : our heuristic goal is to optimize the cost of the infrastructure of multi tenant BPMS, considering BPM task throughput as a QoS metric for customers and resources, and live migrations quantity limitation.
-      * reactive bicriteria time slot heuristic approach [6];
-      * proactive multiple time slots heuristic and model [7];
-      * enhancement of previous algorithm using genetic algorithms and alternative model [4];
+      * reactive bicriteria time slot heuristic approach;
+      * proactive multiple time slots heuristic and model;
+      * enhancement of previous algorithm using genetic algorithms and alternative model;
     * Generic benchmarking approaches and frameworks, and metrics justification preparation and implementation of benchmarking approaches
-      * cloud resource capacity automated and reproductible framework based on Docker [5]
-      * live migrations effects benchmarking approach and framework [10]
-    * Security in BPM tools evaluation model [1]
-    * Collaboration with the Software Institute team of the University of Lugano on the subject of BPM engine benchmarking. One publication has been done during this collaboration [10], and more are currently under development.
+      * cloud resource capacity automated and reproductible framework based on Docker
+      * live migrations effects benchmarking approach and framework
+    * Security in BPM tools evaluation model
+    * Collaboration with the Software Institute team of the University of Lugano on the subject of BPM engine benchmarking. One publication has been done during this collaboration, and more are currently under development.
 
 * 2011-2014: Lead developer (3 years)
   * Company: Cintel (France)
@@ -74,9 +74,14 @@ FTP
 Skills
 ======
 * Software development
+  * Rust, C++, Java, Python
 * Devops
+  * Kubernetes, Docker
+  * AWS, Azure, Grid5000, Iot-Lab
 * Optimization
+  * CPlex, Gurobi, SkOpt
 * Machine Learning
+  * Sklearn
 
 Publications
 ======
