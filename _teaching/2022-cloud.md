@@ -8,13 +8,12 @@ date: 2022-09-15
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Tutorial: 30 hours, Lecture: 2 hours (3 years, 2020-2022)
 
-Heading 1
-======
+Course content
+==============
+Initiation to Kubernetes (one lecture). [Slides](/files/kubernetes_course.pdf)
 
-Heading 2
-======
-
-Heading 3
-======
+Tutorial content
+================
+Cloud project.

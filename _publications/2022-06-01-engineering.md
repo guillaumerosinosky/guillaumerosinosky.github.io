@@ -8,4 +8,3 @@ venue: 'Engineering reports'
 paperurl: 'http://hdl.handle.net/2078.1/265574'
 citation: 'Tran, V. H., Lenssens, B., Kassab, A., Laks, A., Rivière, E., Rosinosky, G., & Sadre, R. (2022). Machine-as-a-Service: Blockchain-based management and maintenance of industrial appliances. Engineering Reports, e12567.'
 ---
-This paper is about the number 3. The number 4 is left for future work.

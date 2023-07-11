@@ -9,9 +9,3 @@ paperurl: 'https://dumas.ccsd.cnrs.fr/dumas-00985237'
 citation: 'Rosinosky, G. (2012). Nouvelles fonctionnalités, évolutions et optimisations du logiciel d’assimilation variationnelle Yao (Master dissertation, Laboratoire d''océanographie et du climat: expérimentations et approches numériques [LOCEAN], Institut Pierre Simon Laplace, Boîte 100, 4 place Jussieu 75252 Paris Cedex 05).'
 ---
 Master thesis (in French).
-
-{::comment}
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-{:/comment}

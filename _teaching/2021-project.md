@@ -8,13 +8,9 @@ date: 2021-09-15
 location: "Louvain-la-Neuve, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecture: 15 hours, tutorial 15 hours. [Details](https://uclouvain.be/cours-2021-lsinc1001).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Content
+=======
+Introduction to computer science and development.
+IoT Raspberry-Pi based project.
