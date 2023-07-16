@@ -17,13 +17,23 @@ Education
 
 Work experience
 ======
-* 2021-2023: Post-doc (2 years)
+* 2022-2023: Post-doc (2 years)
   * Université Catholique de Louvain (Belgium)
   * Subject: elastic and predictive management of containers for IA and data science
+  * Achievements
+    * WIP capacity planning for stream processing engines
+    * WIP fine-grained scheduling for stream processing engines
+    * WIP transparent sharding using service meshes
+    * WIP high performance networking using service meshes
 * 2019-2021: Post-doc (2.5 years)
   * Université Catholique de Louvain (Belgium)
   * Subject: innovative middleware for high-assurance cloud applications in geographically distributed infrastructures
-
+  * Achievements 
+    * privacy-enforcing proxies for recommendation systems using SGX
+    * highly available stream processing engines using active replication
+    * live migration strategies using Foreign Data Wrappers
+    * chaos engineering and benchmarking of blockchain platforms
+    * blockchain for Machine-as-a-Service
 * 2014-2019: PhD student (4 years)
   * Université de Lorraine (France)
   * Achievements
@@ -76,8 +86,8 @@ Skills
 * Software development
   * Rust, C++, Java, Python
 * Devops
-  * Kubernetes, Docker
-  * AWS, Azure, Grid5000, Iot-Lab
+  * Kubernetes, Docker, Istio
+  * AWS, Azure, Grid5000, IOT-Lab
 * Optimization
   * CPlex, Gurobi, SkOpt
 * Machine Learning
