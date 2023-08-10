@@ -108,6 +108,7 @@ Teaching
   
 Service and leadership
 ======
+* 09/2023 CloudNet 2023 - TPC Member
 * 12/2022 OPODIS 2022 Conference on Principles of Distributed Systems - Publication chair
 * 11/2022 23rd ACM/IFIP International Middleware Conference - Industry track PC member
 * 04/2022 Eurosys 2022 - Shadow PC member
