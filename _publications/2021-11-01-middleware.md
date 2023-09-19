@@ -11,3 +11,5 @@ paperurl: 'http://hdl.handle.net/2078.1/252558'
 citation: 'Rosinosky, G., Da Silva, S., Ben Mokhtar, S., Négru, D., Réveillère, L., & Rivière, E. (2021, November). PProx: efficient privacy for recommendation-as-a-service. In Proceedings of the 22nd International Middleware Conference (pp. 14-26).'
 ---
 [Online repository](https://github.com/CloudLargeScale-UCLouvain/PProx)
+
+[Video presentation](https://www.youtube.com/watch?v=WTJfoH6jLd4)

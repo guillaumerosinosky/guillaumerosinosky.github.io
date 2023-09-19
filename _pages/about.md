@@ -29,4 +29,4 @@ Prior to my doctoral studies, I spent a decade as a developer and subsequently a
 As the year draws to a close, I am excitedly looking forward to new opportunities and challenges towards the end of the year. Please don't hesitate to reach out! For additional details, you are invited to consult my comprehensive CV on this website,  download the [French PDF version](files/cv_fr.pdf), or connect with me via your preferred communication channel.
 
 Last news:
-- 06/09/2023: added arXiv preprint of our work [StreamBed: capacity planning for stream processing](/publication/2023-08-01-preprint)
+- 06/09/2023: added arXiv preprint of our work [StreamBed: capacity planning for stream processing](/publication/2023-08-01-streambed)
