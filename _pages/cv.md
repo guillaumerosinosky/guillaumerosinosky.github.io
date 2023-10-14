@@ -23,6 +23,7 @@ Work experience
   * Achievements
     * WIP capacity planning for stream processing engines- [preprint submitted at ICDE'23](/publication/2023-08-01-streambed)
     * WIP fine-grained scheduling for stream processing engines
+    * WIP streaming infrastructure symbiosis using service meshes
     * WIP transparent sharding using service meshes
     * WIP high performance networking using service meshes - [Master thesis'23](https://dial.uclouvain.be/memoire/ucl/object/thesis:40653)
 * 2019-2021: Post-doc (2.5 years)
@@ -94,19 +95,7 @@ Skills
 * Machine Learning
   * Sklearn
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * 11/2023 WoC'23 International Workshop on Container Technologies and Container Clouds - PC member
@@ -131,3 +120,16 @@ Languages
 * Native in French
 * Operational in English
 * Beginner in 中文 (Mandarin Chinese, 2 years)
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+ 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
