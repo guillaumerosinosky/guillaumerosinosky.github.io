@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Guillaume Rosinosky"
   avatar           : "moi.png"
-  bio              : "Post-doc @ UCLouvain, Belgium. Large-scale computing, optimization and machine learning."
-  location         : "Brussels"
-  employer         : UCLouvain
+  bio              : "Associate professor @ IMT Atlantique / Inria / LS2N, France."
+  location         : "Nantes"
+  employer         : IMT Atlantique
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.fr/citations?user=4BoseAUAAAAJ&hl=fr&authuser=1"
-  email            : guillaumerosinosky at yahoo.fr
+  email            : guillaumerosinosky at inria.fr
   researchgate     :  "https://www.researchgate.net/profile/Guillaume-Rosinosky"
   uri              :
   bitbucket        :

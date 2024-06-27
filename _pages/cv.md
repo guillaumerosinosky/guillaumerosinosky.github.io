@@ -17,11 +17,18 @@ Education
 
 Work experience
 ======
+* 2024- : Associate professor
+  * IMT Atlantique (France) - STACK team (INRIA / LS2N)
+* 2024: Post-doc (3 months)
+  * Université Catholique de Louvain (Belgium)
+  * Subject: data-centric security
+  * Achievements
+    * WIP data-centric security using service meshes
 * 2022-2023: Post-doc (2 years)
   * Université Catholique de Louvain (Belgium)
   * Subject: elastic and predictive management of containers for IA and data science
   * Achievements
-    * WIP capacity planning for stream processing engines- [preprint submitted at ICDE'23](/publication/2023-08-01-streambed)
+    * capacity planning for stream processing engines - [DEBS'24](/publication/2023-08-01-streambed)
     * WIP fine-grained scheduling for stream processing engines
     * WIP streaming infrastructure symbiosis using service meshes
     * WIP transparent sharding using service meshes
