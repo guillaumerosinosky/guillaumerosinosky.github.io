@@ -23,16 +23,16 @@ Work experience
   * Université Catholique de Louvain (Belgium)
   * Subject: data-centric security
   * Achievements
-    * WIP data-centric security using service meshes
+    * Data-centric security using service meshes (canceled for now)
 * 2022-2023: Post-doc (2 years)
   * Université Catholique de Louvain (Belgium)
   * Subject: elastic and predictive management of containers for IA and data science
   * Achievements
-    * capacity planning for stream processing engines - [DEBS'24](/publication/2023-08-01-streambed)
-    * WIP fine-grained scheduling for stream processing engines
-    * WIP streaming infrastructure symbiosis using service meshes
+    * Capacity planning for stream processing engines - [DEBS'24](/publication/2023-08-01-streambed)
+    * Fine-grained scheduling for stream processing engines
+    * Streaming infrastructure symbiosis using service meshes
     * WIP transparent sharding using service meshes
-    * WIP high performance networking using service meshes - [Master thesis'23](https://dial.uclouvain.be/memoire/ucl/object/thesis:40653)
+    * High performance networking using service meshes - [Master thesis'23](https://dial.uclouvain.be/memoire/ucl/object/thesis:40653)
 * 2019-2021: Post-doc (2.5 years)
   * Université Catholique de Louvain (Belgium)
   * Subject: innovative middleware for high-assurance cloud applications in geographically distributed infrastructures
