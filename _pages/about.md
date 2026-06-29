@@ -22,11 +22,17 @@ Prior to my doctoral studies, I spent a decade as a developer and subsequently a
 
 ## Current research interests
 
+- Transversal computing through proxies, service meshes and code interposition
+- Decentralized datacenter applications in customer devices
 - Stream processing performance measurements and optimization
-- Transversal computing through service meshes
-- Enhancing performance, privacy, and high-availability in large-scale systems
+- More generally, enhancing performance, privacy, and resilience in large-scale systems
 
 ### Last news
+- 08/2026: our paper Understanding Power Limiting Mechanisms in Modern Processors: A Deep Dive into Intel RAPL and Turbo Boost Dynamics has been accepted at Euro-Par'26
+- 06/2026: our paper Alloy: Transparent Proxy-Based Coupling Between Stream Processing and Storage has been accepted at DEBS'26
+- 03/2026: our paper Charon: Fine-Grain Resource Allocation and Optimized Task Placement for Multi-Query Distributed Stream Processing has been presented at SAC'26
+- 06/2025: our paper Justin: Hybrid CPU/Memory elastic scaling for distributed stream processing has been accepted at DAIS'25
+- 06/2025: our paper A Tale of Many Streams: Characterizing a Hybrid Batch-Stream Production Workload in Digazu, a Data Lake supported by Apache Kafka and Flink has been accepted at DEBS'25
 - 06/2024: our paper StreamBed has been accepted at the [DEBS'24](https://2024.debs.org/) conference
 - 04/2024: began a permanent position as an associate professor at IMT Atlantique
 - 10/2023: honored to be invited to the [Middleware'24](https://middleware-conf.github.io/2024/) Program Committee
