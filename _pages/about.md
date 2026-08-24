@@ -14,9 +14,9 @@ My proficiency in both high and low-level development and mastery of DevOps/Clou
 ## Current research interests
 
 - Transparent and dynamic application enhancement through proxies, service meshes and code interposition
-  - The goal here is to add features to -potentially legacy- running applications at runtime, without code update or rebuilding. Our [Alloy paper](/publication/2026-06-23-debs_alloy) show a good example applied in a big data scenario.
+  - *Goal:* Add features to -potentially legacy- running applications, without code update or rebuilding. Our [Alloy paper](/publication/2026-06-23-debs_alloy) demonstrate our approach in a big data scenario.
 - Decentralized datacenter applications in customer devices
-  - The goal here is to port with *minimal codebase updates and effects on latency* datacenter applications on browsers, using WASM technology for instance. This permit to have resilient, privacy-enabling versions of regular applications.   
+  - *Goal:* Port datacenter applications to browsers (e.g using WASM) with *minimal codebase updates and effects on latency*. This enables resilient, privacy-enabling versions of regular applications.   
 - Stream processing performance measurements and optimization
 - More generally, enhancing performance, privacy, and resilience in large-scale systems.
 - *Feel free to reach out for potential collaborations!*
