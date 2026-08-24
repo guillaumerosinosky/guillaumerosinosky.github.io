@@ -29,9 +29,9 @@ Work experience
   * Subject: elastic and predictive management of containers for IA and data science
   * Achievements
     * Capacity planning for stream processing engines - [DEBS'24](/publication/2023-08-01-streambed)
-    * Fine-grained scheduling for stream processing engines
-    * Streaming infrastructure symbiosis using service meshes
-    * WIP transparent sharding using service meshes
+    * Fine-grained scheduling for stream processing engines [DAIS'25](/publication/2025-06-15-dais_justin) [SAC'26](/publication/2026-06-22-sac_charon)
+    * Streaming infrastructure symbiosis using service meshes [DEBS'26](/publication/2026-06-23-debs_alloy)
+    * Transparent sharding using service meshes: Currently addressed in my [PhD student's work](https://theses.fr/s426690?domaine=theses) 
     * High performance networking using service meshes - [Master thesis'23](https://dial.uclouvain.be/memoire/ucl/object/thesis:40653)
 * 2019-2021: Post-doc (2.5 years)
   * Université Catholique de Louvain (Belgium)
