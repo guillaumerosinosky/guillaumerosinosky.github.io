@@ -22,10 +22,13 @@ Prior to my doctoral studies, I spent a decade as a developer and subsequently a
 
 ## Current research interests
 
-- Transversal computing through proxies, service meshes and code interposition
+- Transparent and dynamic application enhancement through proxies, service meshes and code interposition
+  - The goal here is to add features to -potentially legacy- running applications at runtime, without code update or rebuilding. Our [Alloy paper](/publication/2026-06-23-debs_alloy) show a good example applied in a big data scenario.
 - Decentralized datacenter applications in customer devices
+  - The goal here is to port with *minimal codebase updates and effects on latency* datacenter applications on browsers, using WASM technology for instance. This permit to have resilient, privacy-enabling versions of regular applications.   
 - Stream processing performance measurements and optimization
-- More generally, enhancing performance, privacy, and resilience in large-scale systems
+- More generally, enhancing performance, privacy, and resilience in large-scale systems.
+- *Feel free to reach out for potential collaborations!*
 
 ### Last news
 - 08/2026: our paper Understanding Power Limiting Mechanisms in Modern Processors: A Deep Dive into Intel RAPL and Turbo Boost Dynamics has been accepted at Euro-Par'26
