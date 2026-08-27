@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-With a keen interest in the intricacies of distributed systems, I explore  critical areas such as performance, privacy, and high availability, particularly within large-scale systems. 
+With a keen interest in the intricacies of distributed systems, I explore  critical areas such as performance, energy, privacy, and high availability, particularly within large-scale systems. 
 My proficiency in both high and low-level development and mastery of DevOps/CloudOps techniques combined with my knowledge in optimization and machine learning fuels my pursuit in this domain. 
 
 ## Current research interests
@@ -18,7 +18,7 @@ My proficiency in both high and low-level development and mastery of DevOps/Clou
 - Decentralized datacenter applications in customer devices
   - *Goal:* Port datacenter applications to browsers (e.g using WASM) with *minimal codebase updates and effects on latency*. This enables resilient, privacy-enabling versions of regular applications.   
 - Stream processing performance measurements and optimization
-- More generally, enhancing performance, privacy, and resilience in large-scale systems.
+- More generally, enhancing performance, energy, privacy, and resilience in large-scale systems.
 - *Feel free to reach out for potential collaborations!*
 
 
